@@ -1,0 +1,60 @@
+.title-banner {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+.forecast-day {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    margin-left: 3px;
+    padding-top: 10px;
+}
+
+.navbar {
+    margin-right: 0;
+}
+
+.current-box {
+    margin-right: 10px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+button {
+    background-color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    color: whitesmoke;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+button:active {
+    background-color: rgb(71, 107, 173);
+}
+
+button:hover {
+    border: 2px solid rgb(53, 53, 53);
+}
+
+.list-group-item {
+    background-color: cornflowerblue;
+    border: none;
+    color: whitesmoke;
+}
+
+.clear {
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+}
+
+.clear:active {
+    background-color: blueviolet;
+}
+
+.list-group-item:active {
+    background-color: rgb(71, 107, 173);
+}
